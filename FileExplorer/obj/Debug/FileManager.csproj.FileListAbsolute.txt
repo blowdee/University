@@ -1,0 +1,15 @@
+D:\pp\bin\Debug\FileManager.exe.config
+D:\pp\bin\Debug\FileManager.exe.manifest
+D:\pp\bin\Debug\FileManager.application
+D:\pp\bin\Debug\FileManager.exe
+D:\pp\bin\Debug\FileManager.pdb
+D:\pp\obj\Debug\FileManager.Form1.resources
+D:\pp\obj\Debug\FileManager.Form2.resources
+D:\pp\obj\Debug\FileManager.Form4.resources
+D:\pp\obj\Debug\FileManager.Properties.Resources.resources
+D:\pp\obj\Debug\FileManager.TextEditorForm.resources
+D:\pp\obj\Debug\FileManager.csproj.GenerateResource.Cache
+D:\pp\obj\Debug\FileManager.exe.manifest
+D:\pp\obj\Debug\FileManager.application
+D:\pp\obj\Debug\FileManager.exe
+D:\pp\obj\Debug\FileManager.pdb

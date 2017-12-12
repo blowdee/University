@@ -1,0 +1,9 @@
+D:\uni\prog\AOS4\AOS4\bin\Debug\AOS4.exe.config
+D:\uni\prog\AOS4\AOS4\bin\Debug\AOS4.exe
+D:\uni\prog\AOS4\AOS4\bin\Debug\AOS4.pdb
+D:\uni\prog\AOS4\AOS4\obj\Debug\AOS4.csprojResolveAssemblyReference.cache
+D:\uni\prog\AOS4\AOS4\obj\Debug\AOS4.Form1.resources
+D:\uni\prog\AOS4\AOS4\obj\Debug\AOS4.Properties.Resources.resources
+D:\uni\prog\AOS4\AOS4\obj\Debug\AOS4.csproj.GenerateResource.Cache
+D:\uni\prog\AOS4\AOS4\obj\Debug\AOS4.exe
+D:\uni\prog\AOS4\AOS4\obj\Debug\AOS4.pdb
